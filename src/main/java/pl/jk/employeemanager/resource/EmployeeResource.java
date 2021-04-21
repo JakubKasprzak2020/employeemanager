@@ -1,4 +1,4 @@
-package pl.jk.employeemanager;
+package pl.jk.employeemanager.resource;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -10,10 +10,10 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/employee")
-public class EmployeeResouce {
+public class EmployeeResource {
     private final EmployeeService employeeService;
 
-    public EmployeeResouce(EmployeeService employeeService) {
+    public EmployeeResource(EmployeeService employeeService) {
         this.employeeService = employeeService;
     }
 
