@@ -33,7 +33,7 @@ This project was made with Spring Boot Full Stack with Angular Full Course [2021
         "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar1.png"
     }
 
-  {
+    {
         "name": "Monica Johnson",
         "email": "m.johnson@mail.com",
         "jobTitle": "python developer",
@@ -41,7 +41,7 @@ This project was made with Spring Boot Full Stack with Angular Full Course [2021
         "imageUrl": "https://www.bootdey.com/img/Content/avatar/avatar3.png"
     }
 
-  {
+     {
         "name": "George Snowman",
         "email": "g.snowman@mail.com",
         "jobTitle": "data base specialist",
